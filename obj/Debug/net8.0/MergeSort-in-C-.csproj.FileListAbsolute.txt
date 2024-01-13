@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\bin\Debug\net8.0\MergeSort-in-C-.exe
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\bin\Debug\net8.0\MergeSort-in-C-.deps.json
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\bin\Debug\net8.0\MergeSort-in-C-.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\bin\Debug\net8.0\MergeSort-in-C-.dll
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\bin\Debug\net8.0\MergeSort-in-C-.pdb
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\obj\Debug\net8.0\MergeSort-in-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\obj\Debug\net8.0\MergeSort-in-C-.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\obj\Debug\net8.0\MergeSort-in-C-.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\obj\Debug\net8.0\MergeSort-in-C-.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\obj\Debug\net8.0\MergeSort-in-C-.dll
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\obj\Debug\net8.0\refint\MergeSort-in-C-.dll
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\obj\Debug\net8.0\MergeSort-in-C-.pdb
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\obj\Debug\net8.0\MergeSort-in-C-.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\MergeSort-in-C-\obj\Debug\net8.0\ref\MergeSort-in-C-.dll
